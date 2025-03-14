@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scelta giorni della settimana</title>
+
+</head>
+<body>
+    <form action="/choose-days" method="post">
+        <h2 style="font-family: Constantia">Camion plastica:</h2>
+        <label style="font-family: Constantia">Il suo passaggio sarà ogni:</label>
+        <select name="plastica_day">
+            {% for day in days %}
+                <option value="{{ day }}">{{ day }}</option>
+            {% endfor %}
+        </select>
+        <label style="font-family: Constantia">del mese</label>
+        <br><br>
+
+        <h2 style="font-family: Constantia">Camion vetro:</h2>
+        <label style="font-family: Constantia">Il suo passaggio sarà ogni:</label>
+        <select name="vetro_day">
+            {% for day in days %}
+                <option value="{{ day }}">{{ day }}</option>
+            {% endfor %}
+        </select>
+        <label style="font-family: Constantia">del mese</label>
+        <br><br>
+
+        <h2 style="font-family: Constantia">Camion carta:</h2>
+        <label style="font-family: Constantia">Il suo passaggio sarà ogni:</label>
+        <select name="carta_day">
+            {% for day in days %}
+                <option value="{{ day }}">{{ day }}</option>
+            {% endfor %}
+        </select>
+        <label style="font-family: Constantia">del mese</label>
+        <br><br>
+
+        <h2 style="font-family: Constantia">Camion umido:</h2>
+        <label style="font-family: Constantia">Il suo passaggio sarà ogni:</label>
+        <select name="umido_day">
+            {% for day in days %}
+                <option value="{{ day }}">{{ day }}</option>
+            {% endfor %}
+        </select>
+        <label style="font-family: Constantia">del mese</label>
+        <br>
+        <br>
+
+        <button type="submit">Salva</button>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1 style="color:brown; font-family:Impact;">Net-turbino </h1>
+
+</head>
+<body>
+    {% if selected_days %}
+        <p style="font-family: Constantia">
+            Giorni in cui passerà ciascun camion: <br><br>
+            - camion plastica: {{ selected_days[0] }} <br>
+            - camion vetro: {{ selected_days[1] }} <br>
+            - camion carta: {{ selected_days[2] }} <br>
+            - camion umido: {{ selected_days[3] }} <br>
+        </p>
+        <form action="/choose-days">
+            <input type="submit" value="Cambia giorni di passaggio">
+        </form>
+
+        <p style="font-family: Constantia; font-size: large;">
+        Schedule di oggi <span id="data"></span> : </p>
+
+	    <script>
+		    var oggi = new Date();
+		    var dataElement = document.getElementById("data");
+		    dataElement.innerHTML = oggi.toLocaleDateString();
+
+	    </script>
+
+
+
+    <iframe src="static/test.html" style="width: 90vw; height: 50vh;"></iframe>
+
+
+    {% else %}
+        <form action="/choose-days">
+            <input type="submit" value="Scegli giorni di passaggio">
+        </form>
+    {% endif %}
+<br>
+
+
+
+</body>
+</html>

@@ -1,0 +1,272 @@
+{
+      "pattumi/Modena/Viale Vittorio Veneto/1": {
+            "pattumi/Modena/Viale Vittorio Veneto/1/umido": {
+                  "address": "Viale Vittorio Veneto",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Viale Vittorio Veneto/1/vetro": {
+                  "address": "Viale Vittorio Veneto",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Carlo Sigonio/1": {
+            "pattumi/Modena/Via Carlo Sigonio/1/umido": {
+                  "address": "Via Carlo Sigonio",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Carlo Sigonio/1/vetro": {
+                  "address": "Via Carlo Sigonio",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Giuseppe Zarlati/1": {
+            "pattumi/Modena/Via Giuseppe Zarlati/1/umido": {
+                  "address": "Via Giuseppe Zarlati",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Giuseppe Zarlati/1/vetro": {
+                  "address": "Via Giuseppe Zarlati",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Duccio Da Boninsegna/1": {
+            "pattumi/Modena/Via Duccio Da Boninsegna/1/umido": {
+                  "address": "Via Duccio Da Boninsegna",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Duccio Da Boninsegna/1/vetro": {
+                  "address": "Via Duccio Da Boninsegna",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Monte Sabotino/1": {
+            "pattumi/Modena/Via Monte Sabotino/1/umido": {
+                  "address": "Via Monte Sabotino",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Monte Sabotino/1/vetro": {
+                  "address": "Via Monte Sabotino",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Francesco Petrarca/1": {
+            "pattumi/Modena/Via Francesco Petrarca/1/umido": {
+                  "address": "Via Francesco Petrarca",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Francesco Petrarca/1/vetro": {
+                  "address": "Via Francesco Petrarca",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Pietro Siligardi/1": {
+            "pattumi/Modena/Via Pietro Siligardi/1/umido": {
+                  "address": "Via Pietro Siligardi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Pietro Siligardi/1/vetro": {
+                  "address": "Via Pietro Siligardi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Viale Buon Pastore/1": {
+            "pattumi/Modena/Viale Buon Pastore/1/umido": {
+                  "address": "Viale Buon Pastore",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Viale Buon Pastore/1/vetro": {
+                  "address": "Viale Buon Pastore",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Lodovico Lana/1": {
+            "pattumi/Modena/Via Lodovico Lana/1/umido": {
+                  "address": "Via Lodovico Lana",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Lodovico Lana/1/vetro": {
+                  "address": "Via Lodovico Lana",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Viale Jacopo Barozzi/1": {
+            "pattumi/Modena/Viale Jacopo Barozzi/1/umido": {
+                  "address": "Viale Jacopo Barozzi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Viale Jacopo Barozzi/1/vetro": {
+                  "address": "Viale Jacopo Barozzi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Enrico Fermi/1": {
+            "pattumi/Modena/Via Enrico Fermi/1/umido": {
+                  "address": "Via Enrico Fermi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Enrico Fermi/1/vetro": {
+                  "address": "Via Enrico Fermi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Orazio Vecchi/1": {
+            "pattumi/Modena/Via Orazio Vecchi/1/umido": {
+                  "address": "Via Orazio Vecchi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Orazio Vecchi/1/vetro": {
+                  "address": "Via Orazio Vecchi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Giuseppe Jacopi/1": {
+            "pattumi/Modena/Via Giuseppe Jacopi/1/umido": {
+                  "address": "Via Giuseppe Jacopi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Giuseppe Jacopi/1/vetro": {
+                  "address": "Via Giuseppe Jacopi",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Fortunato Tamburini/1": {
+            "pattumi/Modena/Via Fortunato Tamburini/1/umido": {
+                  "address": "Via Fortunato Tamburini",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Fortunato Tamburini/1/vetro": {
+                  "address": "Via Fortunato Tamburini",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      },
+      "pattumi/Modena/Via Marco Pollione Vitruvio/1": {
+            "pattumi/Modena/Via Marco Pollione Vitruvio/1/umido": {
+                  "address": "Via Marco Pollione Vitruvio",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "umido"
+            },
+            "pattumi/Modena/Via Marco Pollione Vitruvio/1/vetro": {
+                  "address": "Via Marco Pollione Vitruvio",
+                  "garbage_level": 0,
+                  "light": 0,
+                  "city": "Modena",
+                  "civ": "1",
+                  "type": "vetro"
+            }
+      }
+}

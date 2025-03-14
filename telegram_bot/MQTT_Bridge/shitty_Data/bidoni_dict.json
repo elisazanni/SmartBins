@@ -1,0 +1,26 @@
+{
+  "pattumi/Modena/address1/1/":{
+    "pattumi/Modena/address1/1/vetro": {
+        "type": "vetro",
+        "address": "address1",
+        "sensor_value":6.0,
+        "city": "Modena",
+        "civ": "1"
+    },
+    "pattumi/Modena/address1/1/umido": {
+        "type": "umido",
+        "address": "address1",
+        "sensor_value":6.0,
+        "city": "Modena",
+        "civ": "1"
+    },
+    "pattumi/Modena/address1/1/plastica": {
+        "type": "plastica",
+        "address": "address1",
+        "sensor_value":6.0,
+        "city": "Modena",
+        "civ": "1"
+    }
+  }
+
+}
