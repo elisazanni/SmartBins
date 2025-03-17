@@ -15,7 +15,7 @@ This project, developed for the IoT course of the Master's degree, integrates ha
 
 ## System Components
 ### 1. The Device  
-![img_1.png](images/img_1.png)
+![img_1.png](images/img_1.png)  
 The device is a smart bin equipped with:
 - Charging base
 - Internal ultrasonic sensor
@@ -24,7 +24,7 @@ The device is a smart bin equipped with:
 We created a digital twin for every device.
 
 ### 2. The Bridge
-![img_2.png](images/img_2.png)
+![img_2.png](images/img_2.png)  
 Concept:
 Each bridge is associated with a specific address and manages all the smart bins within that area.
 
@@ -60,7 +60,7 @@ For End Users:
 ## Hardware and Software Implementation
 
 ### 1. Microcontroller 
-![img_4.png](images/img_4.png)
+![img_4.png](images/img_4.png)  
 *Functions:*
 - Receives commands from the bridge to control the LED indicators.
 - Communicates battery level and bin status.
@@ -73,7 +73,7 @@ For End Users:
 - Charging Module: USB charging port
 
 ### 2. Bridge
-3. ![img_5.png](images/img_5.png)
+3. ![img_5.png](images/img_5.png)  
 Developed in Python using the paho_mqtt library, the bridge is divided into two parts:
 
 *MQTT Publisher:*
@@ -90,7 +90,7 @@ This interface allows:
 - Dynamic instantiation of virtual bins, automatically updated with data published periodically by the various bridges.
 - Automatic creation of a hierarchical structure for the bins.
 Example Command:  
-![img.png](images/img.png)
+![img.png](images/img.png)  
 This command turns on the red LED of the specified bin.
 
 It also exposes methods to interact with physical bins, for example:  
@@ -118,6 +118,6 @@ If the calculated route includes the street corresponding to the user’s chat I
 If no collection is planned for a specific street on a given day, a "service cancelled" message is sent to all associated chat IDs.
 
 ### 6. Garbage truck
-Written in python, html, involving Flask library.
+Written in python, html, involving Flask library.  
 ![img_7.png](images/img_7.png)
 ![img_8.png](images/img_8.png)
