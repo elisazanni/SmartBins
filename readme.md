@@ -2,11 +2,12 @@
 This project, developed for the IoT course of the Master's degree, integrates hardware and software solutions for improving efficiency and sustainability while reducing operational costs, traffic, and environmental impact.
 
 ## Purpose and Objectives
-To Encourage:   
+*To Encourage:*   
 - Efficiency in waste management services
 - Environmental care
-- Household waste segregation
-To Decrease:  
+- Household waste segregation  
+
+*To Decrease:*  
 - Operational costs for waste management
 - Traffic by minimizing truck movements
 - Pollution
